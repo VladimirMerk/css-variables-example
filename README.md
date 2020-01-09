@@ -1,4 +1,4 @@
-# css-variables-example
+# СSS variables example
 
 Using css variables to apply filters to an image
 
