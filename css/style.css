@@ -12,7 +12,7 @@
 }
 
 body, input {
-  font-family: "Courier New", Courier, monospace;
+  font-family: 'Cutive Mono', monospace;
 }
 .image-mixer {
   display: flex;
